@@ -9,6 +9,7 @@ Hi, I'm Aikit! This is where I keep notes from my uni studies.
 ## Current units
 -Designing UX
 -Managing Software Development
+-Minor BM
 
 ## Study tips
 - Review notes within 24 hours
